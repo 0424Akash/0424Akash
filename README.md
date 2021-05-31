@@ -7,9 +7,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning Projects**
 
-- 📫 How to reach me **18bcs003@iiitdwd.ac.in akash5544kumar@gmail.com**
-
-- ⚡ Fun fact **I love to travel✈**
+- 📫 How to reach me **akash5544kumar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
