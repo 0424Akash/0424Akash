@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 <h3 align="center">Happy Coding👨‍💻</h3>
 
-- 🔭 I’m currently working on **my coding skills**
+- 🔭 I’m currently working in **Knowledge Foundry**
 
 - 🌱 I’m currently learning **Data Engineering tools** and preparing for **AWS certification on saa-c03**
 
