@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **my coding skills**
 
-- 🌱 I’m currently learning **Machine Learning & Deep Learning**
+- 🌱 I’m currently learning **Data Engineering tools** and preparing for **AWS certification on saa-c03**
 
-- 🤝 I’m looking for help with **Machine Learning Projects**
+- 🤝 I’m looking for help with **Data Engineer Projects**
 
 - 📫 How to reach me **akash5544kumar@gmail.com**
 
