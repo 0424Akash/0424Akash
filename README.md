@@ -3,9 +3,9 @@
 
 ## About me
 
-I am a data enthusiast who loves working on data-related projects and passionate about building scalable and efficient data pipelines. With experience in Neo4j and a strong foundation in Data Engineering tools, I'm always looking to learn new technologies and take on new challenges.
+I am a data enthusiast who loves working on data-related projects and is passionate about building scalable and efficient data pipelines. With experience in Neo4j and a strong foundation in Data Engineering tools, I'm always looking to learn new technologies and take on new challenges. I am also AWS Certified Architect Associate.
 
-- 🌱 I’m currently learning more about AWS and cloud technologies, specifically preparing for the SAA-C03 certification.
+- 🌱 I’m currently learning more about Big Data technologies.
 
 - 👯 I’m looking to collaborate on data engineering and analytics projects.
 
